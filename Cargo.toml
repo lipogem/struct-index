@@ -1,0 +1,13 @@
+[package]
+name = "struct-index"
+version = "1.0.0"
+authors = ["lipogem"]
+edition = "2021"
+license = "MIT"
+description = "structure implement index trait"
+repository = "https://github.com/lipogem/struct-index"
+readme = "README.md"
+keywords = ["index", "derive"]
+
+[lib]
+proc-macro = true
